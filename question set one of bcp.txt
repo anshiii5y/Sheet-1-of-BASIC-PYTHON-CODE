@@ -1,0 +1,5 @@
+Q1. Eligible to vote exercise questions using if-else statements.
+Q2. Read a number and check if it is divisible by7.
+Q3. Check if it's last digit is 4.
+Q4. Check if its divisible by 3 and its last digit is 4.
+Q5. Read a number check if it is divisible by 3 or its last digit is 4.
